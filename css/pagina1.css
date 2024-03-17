@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+h1{
+    color: aliceblue;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 60px;
+}
+#coluna1{
+    text-align: center;
+    margin-top: 8%;
+    cursor: pointer;
+    
+    
+}
+
+#coluna2{
+    
+    text-align: center;
+    cursor: pointer;
+}
+
+
+
+#ferrari{
+    
+    margin-bottom: 75px;
+}
+#apple{
+    margin-bottom: 80px;
+}
+
+
+
+img{
+    /* box-shadow: 0px 0px 20px 20px ; */
+   
+    transition: 900ms;
+    max-width: 100%;
+    object-fit: cover;
+    margin: 20px;
+}
+
+
+img:hover{
+    transform: scale(1.2);   
+}
+
+#spotify:hover{
+    filter: drop-shadow(05px 0px 10px  rgb(74, 219, 81));
+}
+
+#alura:hover{
+    filter: drop-shadow(05px 0px 10px  rgb(84, 74, 219));
+}
+
+#fiap:hover{
+    filter: drop-shadow(05px 0px 10px  rgb(243, 26, 171));
+}
+
+#uber:hover{
+    filter: drop-shadow(05px 0px 10px  rgb(250, 250, 250));
+}
+
+#ferrari:hover{
+    filter: drop-shadow(05px 0px 10px  rgb(255, 0, 0));
+}
+
+#apple:hover{
+    filter: drop-shadow(05px 0px 10px  rgb(119, 128, 120));
+}
