@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.conteiner{
+    
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+    margin-top: 05%;
+    background-color: aliceblue;
+    box-shadow: 1px 1px 20px aliceblue;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    
+    
+}
+
+.box{
+    display: flex;
+}
+
+.titulo{
+    text-align: center;
+    font-size: 30px;
+    
+    
+}
+
+.img{   
+    padding: 10px;
+    border-radius: 100px;
+}
+
+.text{
+    padding: 10px;
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.botao{
+  height: 40px;
+  padding: 10px;
+    
+}
+
+.botao1{
+    background-color: blueviolet;
+    padding: 10px;
+    border-radius: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+
+
+img{
+    border-radius: 10px;
+}
