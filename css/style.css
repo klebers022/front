@@ -130,3 +130,58 @@ li{
     text-transform: uppercase;
 }
 
+#adm{
+    color: rgb(57, 57, 233);
+    font-weight: bold;
+    
+}
+
+#ads{
+    color:#EF6351;
+    font-weight: bold;
+}
+
+#bancodados{
+    color: #8903f7;
+    font-weight: bold;
+}
+
+#engcomput{
+    color: #005B44;
+    font-weight: bold;
+}
+
+#engmeca{
+    color: #627264;
+    font-weight: bold;
+}
+
+#engpro{
+    color: #102542;
+    font-weight: bold;
+}
+
+#gestaotec{
+    color: #4A2744;
+    font-weight: bold;
+}
+
+#jogos{
+    color: #1E1A1D;
+    font-weight: bold;
+}
+
+#redepc{
+    color: #5acfc4;
+    font-weight: bold;
+}
+
+#sistema{
+    color: #FFB100;
+    font-weight: bold;
+}
+
+#sistemainternet{
+    color: #E072A4;
+    font-weight: bold;
+}
